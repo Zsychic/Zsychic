@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Zsychic
+- 👀 I’m interested in video game development and network security
+- 🌱 I’m currently learning Unreal Engine
+- 💞️ I’m looking to collaborate on video game development projects
